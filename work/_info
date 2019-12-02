@@ -2,4 +2,84 @@ m255
 K3
 13
 cModel Technology
-dZ:\Desktop\Courses\CAD\ASS3
+Z0 dZ:\Desktop\Courses\CAD\ASS3
+vfreqDivider
+Z1 !s100 J5EUe0G<`2^T3HI;296iA0
+Z2 Ii=38XKVW^o;?BEH>72Z3A3
+Z3 VI18BTClRMn2FZQCTIMzNl2
+Z4 dZ:\Desktop\Courses\CAD\ASS4
+Z5 w1575298307
+Z6 8Z:/Desktop/Courses/CAD/ASS4/freqDivider.v
+Z7 FZ:/Desktop/Courses/CAD/ASS4/freqDivider.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|Z:/Desktop/Courses/CAD/ASS4/freqDivider.v|
+Z10 o-work work -O0
+Z11 nfreq@divider
+!i10b 1
+!s85 0
+Z12 !s108 1575298370.462000
+Z13 !s107 Z:/Desktop/Courses/CAD/ASS4/freqDivider.v|
+!s101 -O0
+vTB
+Z14 !s100 VcQRIA4:VbFbkDAQ]`bnz1
+Z15 IhjcmOJb76O>o]AaPPlA]C1
+Z16 Vc<=32996OT2f`M7E_UhYX1
+R4
+Z17 w1575298333
+Z18 8Z:/Desktop/Courses/CAD/ASS4/testBench.v
+Z19 FZ:/Desktop/Courses/CAD/ASS4/testBench.v
+L0 1
+R8
+r1
+31
+Z20 !s90 -reportprogress|300|-work|work|Z:/Desktop/Courses/CAD/ASS4/testBench.v|
+R10
+n@t@b
+Z21 !s108 1575298370.306000
+Z22 !s107 Z:/Desktop/Courses/CAD/ASS4/testBench.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vTBFD
+!i10b 1
+Z23 !s100 im36jg96=nI?5T03HEoTd0
+Z24 ImT4c8J3XN=egeDKd===E@1
+Z25 VOE<Zb>@1dKbXPPYJBDfoE3
+R4
+Z26 w1575298305
+Z27 8Z:/Desktop/Courses/CAD/ASS4/testBenchFreqDiv.v
+Z28 FZ:/Desktop/Courses/CAD/ASS4/testBenchFreqDiv.v
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1575298370.587000
+!s107 Z:/Desktop/Courses/CAD/ASS4/testBenchFreqDiv.v|
+Z29 !s90 -reportprogress|300|-work|work|Z:/Desktop/Courses/CAD/ASS4/testBenchFreqDiv.v|
+!s101 -O0
+R10
+Z30 n@t@b@f@d
+vtrafficLight
+Z31 IegVi<5h:?L4W;oe_9e9<@0
+Z32 V<OE;78kRXX5o]@e1X=Q`O3
+R4
+Z33 w1575298361
+Z34 8Z:/Desktop/Courses/CAD/ASS4/TrafficLight.v
+Z35 FZ:/Desktop/Courses/CAD/ASS4/TrafficLight.v
+L0 1
+R8
+r1
+31
+R10
+Z36 ntraffic@light
+Z37 !s100 ;U=HennUk=`zdZn;5UZQP3
+Z38 !s108 1575298370.150000
+Z39 !s107 Z:/Desktop/Courses/CAD/ASS4/TrafficLight.v|
+Z40 !s90 -reportprogress|300|-work|work|Z:/Desktop/Courses/CAD/ASS4/TrafficLight.v|
+!i10b 1
+!s85 0
+!s101 -O0
