@@ -1,0 +1,24 @@
+Z:/Desktop/Courses/CAD/ASS4/testBench.v {1 {vlog -work work Z:/Desktop/Courses/CAD/ASS4/testBench.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module TB
+
+Top level modules:
+	TB
+
+} {} {}} Z:/Desktop/Courses/CAD/ASS4/testBenchFreqDiv.v {2 {vlog -work work Z:/Desktop/Courses/CAD/ASS4/testBenchFreqDiv.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module TBFD
+** Warning: Z:/Desktop/Courses/CAD/ASS4/testBenchFreqDiv.v(9): (vlog-2283) Extra semicolon in $unit (global) scope.
+
+
+Top level modules:
+	TBFD
+
+} {} {}} Z:/Desktop/Courses/CAD/ASS4/freqDivider.v {1 {vlog -work work Z:/Desktop/Courses/CAD/ASS4/freqDivider.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module freqDivider
+
+Top level modules:
+	freqDivider
+
+} {} {}}
